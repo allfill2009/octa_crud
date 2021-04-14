@@ -27,8 +27,10 @@
 /storage/*
 !/storage/.keep
 
+/node_modules
 /public/assets
 .byebug_history
+yarn.lock
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
